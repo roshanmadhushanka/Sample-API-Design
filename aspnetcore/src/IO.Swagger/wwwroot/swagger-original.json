@@ -1,0 +1,13 @@
+{
+  "openapi" : "3.0.0",
+  "info" : {
+    "title" : "Products API",
+    "version" : "1"
+  },
+  "servers" : [ {
+    "url" : "https://virtserver.swaggerhub.com/My-Organization82/products/1",
+    "description" : "SwaggerHub API Auto Mocking"
+  } ],
+  "paths" : { },
+  "components" : { }
+}
